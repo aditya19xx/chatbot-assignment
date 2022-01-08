@@ -1,0 +1,13 @@
+.chatbot-section{
+    margin-top: -130px;
+}
+.bot-img {
+  display: flex;
+  background-color: #FF7200;
+  width: 75px;
+  height: 70px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
